@@ -1,0 +1,5 @@
+category: X11
+requires: mkfontdir mkfontscale fontconfig xorg-encodings
+sdesc: "Xorg IBM Type1 fonts"
+ldesc: "Xorg IBM Type1 fonts"
+
